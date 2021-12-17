@@ -4,14 +4,14 @@
 
 ##### NOW
 
-- ✨ Crafting [Routine Partner](https://github.com/eunice-hong/RoutineTimer) Application as a side project;
-- 👐 Open to job opportunities;
+- ✨ Started [100 days of Swift](https://github.com/eunice-hong/100-days-of-swift)! ;
+- 🏄 Lost in [KMM](https://kotlinlang.org/docs/kmm-overview.html) ;
+- 🧘 Trying to stay focused ;
 
 ##### BIO
 
-- 🏢 I'm currently working at **Medicare Portugal**
-- ⚙️ I use daily: `.kt`
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
+- 🏢 I'm currently working at **🥯 Plain Bagel 🥯**
+- ⚙️ I use daily: `.kt` `macOS` `instagram`
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **android**, **mobile application**, **development**
-- 📫 Reach me: [instagram/red.means.rare](https://www.instagram.com/red.means.rare)
+- 📫 Reach me: [@dev.driven.eunice](https://www.instagram.com/dev.driven.eunice)
