@@ -1,6 +1,8 @@
 # 👋🏼 Hi there, [Eunice Hong](https://eunice-hong.com) here!
 
-[![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev "My current interest") [![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://flutter.dev "I'm working as an Android Mobile Application Developer.") [![Location Badge](https://img.shields.io/badge/Seoul-white?style=for-the-badge&logo=https://github.com/eunice-hong/eunice-hong/raw/main/assets/map--pin.svg&logoColor=red)](https://en.wikipedia.org/wiki/Seoul "Reside in Seoul, South Korea")
+[![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev "My current interest") [![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://flutter.dev "I'm working as an Android Mobile Application Developer.") [![Location Badge](https://img.shields.io/badge/%F0%9F%93%8D-Seoul-white?style=for-the-badge&labelColor=white&logoColor=red)](https://en.wikipedia.org/wiki/Seoul "Reside in Seoul, South Korea")
+
+<a href="https://eunice-hong.com/"><img src="https://github.com/eunice-hong/eunice-hong/raw/main/assets/profile-wink.png" align="right" height="150" /></a>
 
 ##### NOW
 
@@ -15,8 +17,6 @@
 - 💬 Ping me about **Flutter**, Mobile application development, productivity, or who's my K-pop bias
 - 😄 Pronouns: [She/Her](https://www.mypronouns.org/she-her)
 - 📫 Reach me: [contact@eunice-hong.com]((mailto:contact@eunice-hong.com "Connect via Email"))
-
-<a href="https://eunice-hong.com/"><img src="https://github.com/eunice-hong/eunice-hong/raw/main/assets/profile-wink.png" align="right" height="150" /></a>
 
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
