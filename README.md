@@ -19,19 +19,9 @@
 - 📫 Reach me: [contact@eunice-hong.com]((mailto:contact@eunice-hong.com "Connect via Email"))
 
 <details>
-  <summary>Some of my Github Public Stats :computer:</summary>
+  <summary>:computer: Github Public Stats</summary>
 
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=eunice-hong&repo=UIC-search-engine&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=eunice-hong&hide=stars,commits,prs,issues,contribs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunice-hong" width="350"/>
-</a>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunice-hong)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eunice-hong)
 
