@@ -2,9 +2,6 @@
 
 [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev "My current interest") [![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://flutter.dev "I'm working as an Android Mobile Application Developer.") [![Location Badge](https://img.shields.io/badge/%F0%9F%93%8D-Seoul-white?style=for-the-badge&labelColor=white&logoColor=red)](https://en.wikipedia.org/wiki/Seoul "Reside in Seoul, South Korea")
 
-<a href="https://eunice-hong.com/"><img src="https://github.com/eunice-hong/eunice-hong/raw/main/assets/profile-wink.svg" align="right" height="260" /></a>
-
-
 * ✨ Working
   on [Building an ultimate Flutter template](https://github.com/eunice-hong/eunice_hong_flutter_project)
 * 🏄 Lost in [Flutter](https://flutter.dev)
